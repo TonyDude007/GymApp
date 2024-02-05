@@ -1,4 +1,4 @@
 # GymApp
 Application Used by me in the gym to keep track of all my weights exercise and PR's, can log multiple users in app.
 
-`https://www.youtube.com/watch?v=mzluNtjtzCs`
+<a href=https://www.youtube.com/watch?v=mzluNtjtzCs > Gym App Video </a> 
