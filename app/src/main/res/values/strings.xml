@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">GymApp</string>
+
+    <string-array name="input_items">
+        <item>All</item>
+        <item>Chest</item>
+        <item>Core</item>
+        <item>Legs</item>
+        <item>Triceps</item>
+        <item>Biceps</item>
+        <item>Shoulders</item>
+        <item>Back</item>
+    </string-array>
+
+    <string-array name="workout_days">
+        <item> Day 1 - Chest </item>
+        <item> Day 2 - Back (Deload) </item>
+        <item> Day 3 - Leg </item>
+        <item> Day 4 - Chest (Deload) </item>
+        <item> Day 5 - Back </item>
+        <item> Day 6 - Leg (Deload) </item>
+    </string-array>
+</resources>

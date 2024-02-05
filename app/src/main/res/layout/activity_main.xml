@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#4f4f4f">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="90">
+
+        <LinearLayout
+            android:id="@+id/userLayout"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:layout_margin="10dp">
+
+        </LinearLayout>
+    </ScrollView>
+
+    <Button
+        android:id="@+id/buttonUser"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:text="New User"
+        android:layout_weight="10"/>
+
+    <Button
+        android:id="@+id/schedule"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Schedule" />
+</LinearLayout>

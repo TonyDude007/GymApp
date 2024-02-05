@@ -1,0 +1,10 @@
+<!-- res/layout/list_item_layout.xml -->
+<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/listItemText"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:textSize="16sp"
+    android:padding="8dp"
+    android:layout_margin="5dp"
+    android:textColor="#000000"
+    android:background="#979797"/>

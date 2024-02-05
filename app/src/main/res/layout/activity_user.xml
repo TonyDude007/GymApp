@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#4f4f4f">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:orientation="horizontal"
+        android:layout_weight="6"
+        android:layout_marginHorizontal="10dp">
+
+        <Spinner
+            android:id="@+id/filtreMuscle"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="40"
+            android:entries="@array/input_items"/>
+
+        <EditText
+            android:id="@+id/searchFiltre"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="60"
+            android:ems="10"
+            android:inputType="text"
+            android:hint="Search"/>
+    </LinearLayout>
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="80">
+
+        <LinearLayout
+            android:id="@+id/ExerciseList"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" />
+    </ScrollView>
+
+    <Button
+        android:id="@+id/btnExercise"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:text="Add Exercise"
+        android:layout_weight="10"/>
+</LinearLayout>
