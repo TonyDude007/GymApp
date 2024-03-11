@@ -1,6 +1,6 @@
-<h1 style="text-align: center;"> Gym App </h1> <br>
+<h1> Gym App </h1> <br>
 
-<p style="text-align: center;">
+<p>
     This gym application is an upgraded version of my previous gym application, which was
     developed in class. Its purpose is to display a list of exercises from a database and retain records of previous
     weights used while behing able to to have multiple differnet users.
@@ -8,17 +8,39 @@
 
 <br>
 
-<h2 style="text-align: center;"> <a href="https://www.youtube.com/watch?v=mzluNtjtzCs">
+<h2> <a href="https://www.youtube.com/watch?v=mzluNtjtzCs">
         Project Video in French</a> </h2>
 
-<h2 style="text-align: center;"> Project Description </h2>
+<h2> Project Description </h2>
 
-<div>
-    <img src="readMePics/gymApp1.jpg" alt="First image of GymApp" width="30%" height="30%">
-    <img src="readMePics/gymApp2.jpg" alt="Second image of GymApp" width="30%" height="30%">
-    <img src="readMePics/gymApp3.jpg" alt="Third image of GymApp" width="30%" height="30%">
-    <img src="readMePics/gymApp4.jpg" alt="Fourth image of GymApp" width="30%" height="30%">
-    <img src="readMePics/gymApp5.jpg" alt="Fifth image of GymApp" width="30%" height="30%">
-    <img src="readMePics/gymApp6.jpg" alt="Sixth image of GymApp" width="30%" height="30%">
-    <img src="readMePics/gymApp7.jpg" alt="Seventh image of GymApp" width="30%" height="30%">
-</div>
+![First image of GymApp](readMePics/gymApp1.jpg)
+First image description
+
+![Second image of GymApp](readMePics/gymApp2.jpg)
+Second image description
+
+![Third image of GymApp](readMePics/gymApp3.jpg)
+Third image description
+
+---
+
+![Fourth image of GymApp](readMePics/gymApp4.jpg)
+Fourth image description
+
+![Fifth image of GymApp](readMePics/gymApp5.jpg)
+Fifth image description
+
+![Sixth image of GymApp](readMePics/gymApp6.jpg)
+Sixth image description
+
+---
+
+![Seventh image of GymApp](readMePics/gymApp7.jpg)
+Seventh image description
+
+![Eighth image of GymApp](readMePics/gymApp8.jpg)
+Eighth image description
+
+![Ninth image of GymApp](readMePics/gymApp9.jpg)
+Ninth image description
+
