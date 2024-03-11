@@ -18,9 +18,9 @@
     <img src="readMePics/gymApp2.jpg" alt="Second image of GymApp" width="30%" height="30%">
     <img src="readMePics/gymApp3.jpg" alt="Third image of GymApp" width="30%" height="30%">
     <div> 
-        <span width="30%"> here we can Click "New User" to bring us to the second page, or u can click dirrectly on the user's in the menu to go to page Three </span>
-        <span width="30%"> This is simple Information for a new user </span>
-        <span width="30%"> Once Logged in all the exercises are pulled from the database. </span>
+        <div width="30%"> here we can Click "New User" to bring us to the second page, or u can click dirrectly on the user's in the menu to go to page Three </div>
+        <div width="30%"> This is simple Information for a new user </div>
+        <div width="30%"> Once Logged in all the exercises are pulled from the database. </div>
     </div>
     <img src="readMePics/gymApp4.jpg" alt="Fourth image of GymApp" width="30%" height="30%">
     <img src="readMePics/gymApp5.jpg" alt="Fifth image of GymApp" width="30%" height="30%">
