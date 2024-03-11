@@ -11,7 +11,7 @@
 <h2> <a href="https://www.youtube.com/watch?v=mzluNtjtzCs">
         Project Video in French</a> </h2>
 
-<h2> Project Description </h2>
+<h2> Project Gallery </h2>
 
 <div>
     <img src="readMePics/gymApp1.jpg" alt="First image of GymApp" width="30%" height="30%"> 
